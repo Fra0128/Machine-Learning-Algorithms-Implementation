@@ -1,4 +1,4 @@
-**WORKING PROGRESS!**
+**WORKING PROGRESS!** Currently, only the linear regression implementation is present in the project.
 
 # Machine-Learning-Algorithms-Implementation
 
